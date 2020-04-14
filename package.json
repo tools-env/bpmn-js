@@ -65,6 +65,7 @@
     "mocha-test-container-support": "0.2.0",
     "npm-run-all": "^4.1.2",
     "phantomjs-prebuilt": "^2.1.12",
+    "promise-polyfill": "^8.1.3",
     "puppeteer": "^1.18.1",
     "raw-loader": "^1.0.0",
     "rollup": "^1.16.2",
@@ -80,7 +81,7 @@
   },
   "dependencies": {
     "bpmn-font": "^0.9.3",
-    "bpmn-moddle": "^6.0.4",
+    "bpmn-moddle": "^7.0.0",
     "css.escape": "^1.5.1",
     "diagram-js": "^6.5.0",
     "diagram-js-direct-editing": "^1.6.1",
